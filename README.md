@@ -1,2 +1,2 @@
-# clicMe
-Clic Me
+# clickMe
+Click Me
